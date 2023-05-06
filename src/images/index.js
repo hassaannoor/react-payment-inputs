@@ -1,12 +1,12 @@
-import amex from './amex.js';
-import dinersclub from './dinersclub.js';
-import discover from './discover.js';
-import hipercard from './hipercard.js';
-import jcb from './jcb.js';
-import unionpay from './unionpay.js';
-import mastercard from './mastercard.js';
-import placeholder from './placeholder.js';
-import visa from './visa.js';
+import amex from './amex.jsx';
+import dinersclub from './dinersclub.jsx';
+import discover from './discover.jsx';
+import hipercard from './hipercard.jsx';
+import jcb from './jcb.jsx';
+import unionpay from './unionpay.jsx';
+import mastercard from './mastercard.jsx';
+import placeholder from './placeholder.jsx';
+import visa from './visa.jsx';
 
 export default {
   amex,
